@@ -1,6 +1,6 @@
 # test
 testRepo
-privet@testgit.com
+privet@testgitno.com
 dldldkfsd.ere
 
 
