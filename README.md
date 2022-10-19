@@ -2,6 +2,7 @@
 testRepo
 privet@testgitno.com
 dldldkfsd.ere
+new.testgitno.com
 
 dldldkfsd-ere
 укуку.dldldkfsd.ere
