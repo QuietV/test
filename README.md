@@ -9,5 +9,6 @@ dldldkfsd-ere
 xn--80achcepozjj4ac6j.xn--p1ai
 privet@kfkfdlfpwefp-weewrmkdf.ru
 
-диктантпобеды.рф
-
+какдиктантпобеды.рф
+тест.какдиктантпобеды.рф
+testmailstest@какдиктантпобеды.рф
