@@ -17,3 +17,8 @@ testmailstest@какдиктантпобеды.рф
 new.смотрирфмосква.рф
 тест.смотрирфмосква.рф
 testmailstest2@смотрирфмосква.рф
+
+testnestestru.ru
+new.testnestestru.ru
+тест.testnestestru.ru
+testmailstest3@testnestestru.ru
