@@ -24,4 +24,5 @@ new.testnestestru.ru
 testmailstest3@testnestestru.ru
 
 dini13@mhs.oe.its.ac.id
+mytesttesttest@mhs.oe.its.ac.id
 mhs.oe.its.ac.id
