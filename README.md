@@ -29,3 +29,5 @@ mhs.oe.its.ac.id
 
 autoconfig.megasvet24.ru
 autodiscover.megasvet24.ru
+
+https://admin:admin@the-internet.herokuapp.com/basic_auth
