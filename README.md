@@ -30,5 +30,10 @@ mhs.oe.its.ac.id
 autoconfig.megasvet24.ru
 autodiscover.megasvet24.ru
 www.megasvet24.ru
+mytest..megasvet24.ru
+my-2test..megasvet24.ru
+my-2test...megasvet24.ru
+
+pol..pol2.megasvet24.ru
 
 https://admin:admin@the-internet.herokuapp.com/basic_auth
